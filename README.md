@@ -1,5 +1,5 @@
 ## Random Quote Generator
-This app displays random famous quotes each time a button is clicked, or example:
+This app displays random famous quotes each time a button is clicked, for example:
 
 "The only thing we have to fear is fear itself." — Franklin Delano Roosevelt.
 
